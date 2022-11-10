@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color: #FFE6F7;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 5em;
+    font-family: 'Sacramento', cursive;
+    color: #937DC2;
+    padding: 10px;
+}
+
+h2{
+    font-size: 2em;
+    font-family: 'Montserrat';
+    color: #937DC2;
+    padding: 10px;
+}
+
+h3{
+    font-size: 1.25em;
+    font-family: 'Montserrat';
+    color: #937DC2;
+    padding: 10px;
+}
+
+p{
+    font-family: 'Montserrat';
+    color: #372948;
+    line-height: 2;
+    padding: 10px;
+}
+
+a{
+    font-family: 'Montserrat';
+    padding: 20px;
+    text-decoration:none;
+    color: #372948;
+}
+
+a:hover{
+    color: #937DC2;
+}
+
+hr{
+    border: dotted #D8D9CF 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px 0;
+    display: inline-block;
+}
+
+.cloud{
+    width: 150px;
+}
+
+.mountain{
+    height: 600px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 350px;
+    left: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 10px;
+}
+
+.middle-container{
+    text-align: center;
+    padding: 100px 0;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.coding-img{
+    float: left;
+    padding-right: 20px;
+}
+
+.games-img{
+    float: right;
+    padding-left: 20px;
+}
+
+.profile-img{
+    padding-bottom: 20px;
+}
+
+.profile-p{
+    padding: 20px 0;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 20px;
+    background: #937DC2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #FFE6F7;
+    text-decoration: none;
+}
+
+
+  .bottom-container{
+    text-align: center;
+    background-color: #FFE6F7;
+    padding: 40px 0 10px 0;
+}
+
+.contact-p{
+    width:50%;
+    margin:50px auto;
+}
+
+.copyright{
+    padding: 20px 0 10px 0;
+    color: #AEBDCA;
+}
